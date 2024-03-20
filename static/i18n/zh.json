@@ -19,7 +19,7 @@
   "default-dfjk": "默认为DFJK",
   "default-20s": "默认为20秒",
   "game-title": "君維",
-  "game-intro1"君維君維君維",
+  "game-intro1":"君維君維君維",
   "game-intro2": "君維在哪裡",
   "record-rank": "用于纪录排行(特殊字符会被过滤)",
   "no-ad-bad-lang": "禁广告/脏话(本项可不填)",
